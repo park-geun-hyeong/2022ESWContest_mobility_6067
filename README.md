@@ -30,9 +30,9 @@
 
 ### Tools
 |Pytorch|Scikit-learn|OpenCV|Dlib|
+|---|---|---|---|
 |Pyhrv|Tkinter|Pygame|Google Cloud API|
 |Pandas|Numpy|Matplotlib|Pyserial|
-|---|---|---|---|
 
 ### OS
 |Ubuntu18.04|Windows 10|Jetpack 4.6|
