@@ -17,9 +17,8 @@
 ## Environment
 
 ###  Language
-|**Language**|
-|---|
 |Python|
+|---|
 
 ### Editor
 |**Editor**||
